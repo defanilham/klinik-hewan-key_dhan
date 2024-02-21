@@ -89,7 +89,7 @@
     
           <!-- Card Header - Accordion -->
           <br>
-          <h6 class="m-0 custom-font">Data Pasien</h6>
+          <h6 class="m-0 custom-font">Data Rekam Medis</h6>
           <br>
 
              <div class="table-responsive">

@@ -217,9 +217,7 @@
                                     </ul>
                                 @endif
                             </td>
-                            <a href="javascript:;" data-toggle="modal" onclick="deleteData({{$data->id}})" data-target="#DeleteModal" class="btn btn-sm btn-icon-split btn-danger">
-                                <span class="icon"><i class="fa  fa-trash" style="padding-top: 4px;"></i></span><span class="text">Hapus</span></a>
-      
+
                           </tr>
                         @endforeach
                         <!-- 5 Baris kosong di bawah tabel -->

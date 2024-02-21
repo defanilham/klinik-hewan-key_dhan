@@ -19,14 +19,14 @@ use App\Http\Controllers\PasienController;
 */
 
 Route::get('/', function () {
-    return view('pengumuman');
+    return view('welcome');
     }
 );
 
 //Main
-Route::get('/dashboard', 'MainController@index')->name('dashboard')->middleware('auth');
+Route::get('/', 'MainController@index')->name('dashboard')->middleware('auth');
 
-Route::get('/', [PengumumanController::class, 'index'])->name('pengumuman');
+Route::get('/pengumuman', [PengumumanController::class, 'index'])->name('pengumuman');
 Route::get('/about', [PengumumanController::class, 'about'])->name('about');
 Route::get('/contact', [PengumumanController::class, 'contact'])->name('contact');
 

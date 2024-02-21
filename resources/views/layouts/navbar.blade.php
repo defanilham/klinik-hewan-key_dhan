@@ -40,7 +40,6 @@
                         <li><a href="{{ route('about') }}" c>Tentang</a></li>
                         <li><a href="{{ route('contact') }}" >Kontak</a></li>
                         <li><a href="#" >Galeri</a></li>
-                        <li><a href="#" >Pengumuman dan Berita</a></li>
                     </ul>
 
 

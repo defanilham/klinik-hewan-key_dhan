@@ -89,7 +89,7 @@
         </div>
 
         <br>
-          <h6 class="m-0 custom-font">Data Pasien</h6>
+          <h6 class="m-0 custom-font">Data Obat</h6>
           <br>
                 <table class="table table-bordered table-striped" width="100%" cellspacing="0">
                   

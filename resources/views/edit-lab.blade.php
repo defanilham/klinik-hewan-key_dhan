@@ -72,16 +72,14 @@
                                     <i class="fas fa-arrow-left fa-fw"></i> Kembali
                                 </a>
                             </div>
+                            <div class="col-sm-4 mb-3 mb-sm-0">
+
+                            </div>
                             <div class="col-sm-4">
                                 <button type="submit" class="btn btn-primary btn-block" name="simpan" value="simpan" >
                                     <i class="fas fa-save fa-fw"></i> Simpan
                                 </button>
                             </div>
-                            <div class="col-sm-4">
-                                <button type="submit" class="btn btn-warning btn-block" name ="simpan" value="simpan_baru">
-                                    <i class="fas fa-plus fa-fw"></i> Simpan Dan Buat Baru
-                                </button>
-                            </div>    
                             </div>                      
                     </form>
                     @endforeach

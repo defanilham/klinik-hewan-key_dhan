@@ -220,15 +220,14 @@
                         @endforeach
                         </div>
                         <div class="col-sm-4 mb-3 mb-sm-0">
+
+                        </div>
+                        <div class="col-sm-4 mb-3 mb-sm-0">
                             <button type="submit" class="btn btn-primary btn-block" name="simpan" value="simpan_edit" >
                                  <i class="fas fa-save fa-fw"></i> Simpan
                             </button>
                         </div>
-                        <div class="col-sm-4 mb-3 mb-sm-0">
-                            <button type="submit" class="btn btn-success btn-block" name="simpan" value="simpan_tagihan" >
-                                 <i class="fas fa-cart-plus fa-fw"></i> Simpan & Buat Tagihan
-                            </button>
-                        </div> 
+
                     </form>
                     @endforeach
                 </div>

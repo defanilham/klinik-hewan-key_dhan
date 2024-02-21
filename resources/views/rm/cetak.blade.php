@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Cetak Tabungan</title>
+    <title>Cetak Rekam Medis</title>
     <!-- Tell the browser to be responsive to screen width -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,7 +23,7 @@
 <body class="hold-transition sidebar-mini layout-fixed" onload="window.print()">
     <div class="container-fluid mt-5">
         <div class="text-center">
-            <h3>Cetak Tabungan</h3>
+            <h3>Cetak Rekam Medis</h3>
         </div>
 <!-- ##### Catagory Area End ##### -->
 
@@ -35,8 +35,8 @@
                 <!-- Blog Details Text -->
                 <div class="blog-details-text">
                     <div class="text-center">
-                        <h3>Data Transaksi</h3>
-                        <h3>Bank Sampah Dream</h3>
+                        <h3>Rekam Medis</h3>
+                        <h3>Key_Dhan Pet Clinic</h3>
                     </div>
                     <br/>
                     <div class="text-right">

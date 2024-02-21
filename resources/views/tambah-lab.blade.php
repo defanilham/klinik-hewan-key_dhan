@@ -34,21 +34,20 @@
                             </div></div>
                         </div>
                         <div class="form-group row">
-                            <div class="col-sm-4">
+                            <div class="col-sm-4 mb-3 mb-sm-0">
                                 <a href="{{route('lab')}}" class="btn btn-danger btn-block btn">
                                     <i class="fas fa-arrow-left fa-fw"></i> Kembali
                                 </a>
                             </div>
-                            <div class="col-sm-4">
+                            <div class="col-sm-4 mb-3 mb-sm-0">
+
+                            </div>
+                            <div class="col-sm-4 mb-3 mb-sm-0">
                                 <button type="submit" class="btn btn-primary btn-block" name="simpan" value="simpan" >
                                     <i class="fas fa-save fa-fw"></i> Simpan
                                 </button>
                             </div>
-                            <div class="col-sm-4">
-                                <button type="submit" class="btn btn-warning btn-block" name ="simpan" value="simpan_baru">
-                                    <i class="fas fa-plus fa-fw"></i> Simpan Dan Buat Baru
-                                </button>
-                            </div>    
+    
                             </div>                      
                     </form>
                 </div>
